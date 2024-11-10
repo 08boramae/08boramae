@@ -1,7 +1,5 @@
 # Hola, 장재영입니다.
 
-<img width="45%" align="right" alt="Github"  style="margin-left: 30px" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 Hello, I'm a backend developer/white hacker, studying in Division of Information Security at Sunrin Internet High School.
 
 ## Languages
