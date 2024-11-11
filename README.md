@@ -19,4 +19,4 @@ Hello, I'm a backend developer/white hacker, studying in Division of Information
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=08boramae&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=08boramae&layout=compact&theme=dracula)](#)
