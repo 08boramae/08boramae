@@ -1,5 +1,3 @@
-# Hola, 장재영입니다.
-
 Hello, I'm a backend developer/white hacker, studying in Division of Information Security at Sunrin Internet High School.
 - Hobbies: Aircraft operation(Pilot flight), Train Operation, Phasmophobia
 - Email: mail@0jae0.dev
