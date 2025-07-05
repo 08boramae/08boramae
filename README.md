@@ -3,14 +3,6 @@ Hello, I'm a backend developer/white hacker, studying in Division of Information
 - Email: mail@0jae0.dev
 - Instagram: @0jae0_
 
-## Languages
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-
-## Framework
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
-[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
-
 ## Study to be perfect
 <!--
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
