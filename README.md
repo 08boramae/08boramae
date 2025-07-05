@@ -1,16 +1,40 @@
-Hello, I'm a backend developer/white hacker, studying in Division of Information Security at Sunrin Internet High School.
-- Hobbies: Aircraft operation(Pilot flight), Train Operation, Phasmophobia
-- Email: mail@0jae0.dev
-- Instagram: @0jae0_
+# Hi there 👋
 
-## Study to be perfect
-<!--
+I'm **Jaeyoung Jang**, a backend developer and white hat hacker from **Sunrin Internet High School**, majoring in **Information Security**.
+
+---
+
+## 🎓 About Me
+- 🧑‍💻 **Backend Developer / White Hat Hacker**
+- ✈️ **Hobbies:** Aircraft operation (Pilot flight), Train operation, Phasmophobia
+- 📧 **Email:** [mail@0jae0.dev](mailto:mail@0jae0.dev)
+- 📸 **Instagram:** [@0jae0_](https://instagram.com/0jae0_)
+
+---
+
+## 📚 Education & Experience
+- **KITRI WhiteHat School 1st**
+- **Daegu University Information Security Gifted Education Center — High-B**
+- **Challenge Author** for **Dreamhack X-MAS CTF 2023**
+
+---
+
+## 🚀 Stack
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
-[![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
--->
-Aircraft operation, CSAT
+[![NestJS](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
 
+---
+
+## 🎯 Currently Studying
+- ✈️ **Aircraft Operation (Pilot Flight)**
+- 📚 **CSAT Preparation**
+
+---
+
+## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=08boramae&layout=compact&theme=dracula)](#)
+
+---
