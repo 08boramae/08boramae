@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Jaeyoung Jang**, a **junior student** majoring in **Information Security** at **Sunrin Internet High School**, as well as a backend developer and white hat hacker.
+I'm **Jaeyoung Jang**, a **Sophomore student** majoring in **Information Security** at **Sunrin Internet High School**, as well as a backend developer and white hat hacker.
 
 ---
 
