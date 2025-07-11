@@ -15,6 +15,7 @@ I'm **Jaeyoung Jang**, a backend developer and white hat hacker from **Sunrin In
 ## 📚 Education & Experience
 - **KITRI WhiteHat School 1st**
 - **Daegu University Information Security Gifted Education Center — High-B**
+- **Project execution and paper publication** for web vulnerability fuzzer combining commercialized web fuzzer **(Confidential)**
 - **Challenge Author** for **Dreamhack X-MAS CTF 2023**
 
 ---
