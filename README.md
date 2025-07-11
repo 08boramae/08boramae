@@ -15,6 +15,7 @@ I'm **Jaeyoung Jang**, a **Sophomore student** majoring in **Information Securit
 ## 📚 Education & Experience
 - **KITRI WhiteHat School 1st**
 - **Daegu University Information Security Gifted Education Center — High-B**
+- Multiple hacking competition **awards** and **finalist**
 - **Project execution and paper publication** for web vulnerability fuzzer combining commercialized web fuzzer **(Confidential)**
 - **Challenge Author** for **Dreamhack X-MAS CTF 2023**
 
