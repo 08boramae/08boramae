@@ -6,7 +6,7 @@ I'm **Jaeyoung Jang**, a **Sophomore student** majoring in **Information Securit
 
 ## 🎓 About Me
 - 🧑‍💻 **Backend Developer / White Hat Hacker**
-- ✈️ **Hobbies:** Aircraft operation (Pilot flight), Train operation, Phasmophobia
+- ✈️ **Hobbies:** Aircraft operation (Pilot flight), Phasmophobia
 - 📧 **Email:** [mail@0jae0.dev](mailto:mail@0jae0.dev)
 - 📸 **Instagram:** [@0jae0_](https://instagram.com/0jae0_)
 
